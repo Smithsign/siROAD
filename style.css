@@ -23,7 +23,7 @@ body {
 #controls button {
   width: 100%;
   height: 40px;
-  background-color: white;
+  background-color: orange;
   border: 1px solid lightgray;
   box-shadow: 3px 5px 0px 0px rgba(0, 0, 0, 0.75);
   cursor: pointer;
@@ -62,7 +62,7 @@ body {
   }
 
   button {
-    background-color: red;
+    background-color: orange;
     padding: 20px 50px 20px 50px;
     font-family: inherit;
     font-size: inherit;
